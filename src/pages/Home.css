@@ -1,0 +1,24 @@
+.home-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 150px;
+}
+
+.image{
+    border: 3px black solid;
+    border-radius: 35px;
+    width: 400px;
+    height: 400px;
+}
+
+.image-div{
+    flex:1;
+}
+
+.about{
+    flex:1;
+    border: 3px wheat solid;
+    border-radius: 25px;
+    color: #fff;
+}
